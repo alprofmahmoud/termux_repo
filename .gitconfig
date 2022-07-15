@@ -1,0 +1,7 @@
+[user]
+	name = u0_a300
+	email = u0_a300@localhost
+[core]
+	excludesFile = /data/data/com.termux/files/home/.gitignore_global
+[alias]
+	st = status
