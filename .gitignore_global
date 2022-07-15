@@ -1,6 +1,5 @@
 ._vimrc
 .cache/
-.config/
 .local/
 .ssh/id_*
 .ssh/known*
@@ -18,5 +17,5 @@ porn
 storage/
 vimrc
 .lesshst
-
+.config/youtube-dl/config
 
