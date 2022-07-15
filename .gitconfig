@@ -5,3 +5,4 @@
 	excludesFile = /data/data/com.termux/files/home/.gitignore_global
 [alias]
 	st = status
+	cm = commit -m
