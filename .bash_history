@@ -63,3 +63,27 @@ chsh -s /data/data/com.termux/files/usr/bin/zsh
 chsh -s /data/data/com.termux/files/usr/bin/zsh u0_a300
 chsh -s zsh u0_a300
 exit 
+chsh -s fish u0_a300
+fish
+exit
+ld
+history 
+echo "chsh -s zsh u0_a300
+" > impcl_termux
+ls
+cat impcl_termux 
+
+cat impcl_termux 
+echo "termux-change-repo 
+
+"
+ls
+echo "termux-change-repo " >> impcl_termux 
+cat impcl_termux 
+vi impcl_termux 
+termux-change-repo 
+echo termux-change-repo 
+echo termux-change-repo  >> impcl_termux 
+cat impcl_termux 
+history 
+exit

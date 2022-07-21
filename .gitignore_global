@@ -18,4 +18,6 @@ storage/
 vimrc
 .lesshst
 .config/youtube-dl/config
-
+.config/fish/
+.config/pulse
+urlfile

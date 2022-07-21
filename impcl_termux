@@ -1,0 +1,3 @@
+chsh -s zsh u0_a300
+termux-change-repo 
+termux-change-repo
