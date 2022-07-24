@@ -20,4 +20,5 @@ vimrc
 .config/youtube-dl/config
 .config/fish/
 .config/pulse
-urlfile
+.termux_authinfo
+
